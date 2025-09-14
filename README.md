@@ -1,6 +1,6 @@
 # Andre Dwyer
 
-** Full Stack Developer, Cloud Infrastructure Architect **  
+**Full Stack Developer, Cloud Infrastructure Architect**  
 AWS | Terraform | CloudFormation | CI/CD | Docker | Kubernetes | C# | Java
 
 ---
