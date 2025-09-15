@@ -29,4 +29,4 @@ With a track record of delivering high-impact platforms across finance, healthca
 
 ## 📫 Connect
 - [LinkedIn](https://linkedin.com/in/andre-dwyer-5850a7225)
-- Email: your.email@example.com
+- Email: c0d3.senpai@gmail.com
