@@ -22,8 +22,6 @@ With a track record of delivering high-impact platforms across finance, healthca
 
 ## 📌 Featured Projects
 - [AWS Serverless Stack](https://github.com/dre3dizzle/aws-serverless-stack) – Deploy scalable APIs in minutes with IaC and CI/CD.
-- [CI/CD Pipeline Template](https://github.com/dre3dizzle/ci-cd-pipeline-template) – Automated build, test, and deploy for containerized apps.
-- [Dev Team Starter Kit](https://github.com/dre3dizzle/dev-team-starter-kit) – Onboarding and code quality toolkit for high-performing teams.
 
 ---
 
